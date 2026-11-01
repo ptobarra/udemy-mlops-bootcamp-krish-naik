@@ -23,6 +23,16 @@ The repo follows the course order. It starts with Python fundamentals and data a
 
 More sections will be added as I work through the course.
 
+## Resources
+
+Reference PDFs collected along the way, in [resources/](resources/):
+
+| Date | Document | Topic |
+|------|----------|-------|
+| 2026-09-17 | [Introduction to MLOps](resources/20260917%20introduction%20to%20mlops.pdf) | What MLOps is and the ML lifecycle |
+| 2026-10-24 | [Flask Framework Notes](resources/20261024%20Flask_Framework_Notes.pdf) | Companion notes for section 13 |
+| 2026-11-01 | [Git Cheat Sheet](resources/20261101%20git-cheat-sheet-education.pdf) | Common Git commands |
+
 ## Setup
 
 The project uses Python 3.10+ and [uv](https://docs.astral.sh/uv/) for dependency management.
